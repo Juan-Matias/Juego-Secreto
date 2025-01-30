@@ -1,1 +1,2 @@
-https://github.com/Juan-Matias/Juego-Secreto/blob/aafcf78e25745aebb2317cf87fdf8d8282dffb28/bg-juego-secretos.PNG
+
+https://github.com/Juan-Matias/Juego-Secreto/blob/5507e652ccd440df344f987527a281de778cd413/bg-juego-secretos.PNG
